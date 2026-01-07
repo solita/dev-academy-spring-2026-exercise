@@ -1,6 +1,6 @@
-# dev-academy-spring-2025-exercise
+# dev-academy-spring-2026-exercise
 
-This is the pre-assignment for Solita Dev Academy Finland January 2025. But if you’re here just purely out of curiosity, feel free to snatch the idea and make your own app just for the fun of it!
+This is the pre-assignment for Solita Dev Academy Finland January 2026. But if you’re here just purely out of curiosity, feel free to snatch the idea and make your own app just for the fun of it!
 
 Let's imagine that you have received an interesting project offer to create a UI and a backend service for displaying data from electricity production, consumption and prices. 
 The exercise uses data that is owned by Fingrid and combines that with electricity price data from porssisahko.net. 
@@ -10,9 +10,17 @@ Create a web application that uses a backend service to fetch the data. Backend 
 
 You are provided with Docker setup, with contains a PostgreSQL database with all the necessary data for the exercise. 
 
-You can also freely choose the frontend technologies to use. The important part is to give good instructions on how to build and run the project. 
+You can also freely choose the frontend technologies to use. The important part is to give good instructions on how to build and run the project.
 
 Please return the exercise as a link to github repository. 
+
+## Use of Generative AI Tools
+
+We believe in the value of generative AI tools and their role in modern software development. However, in this assignment we want to primarily assess the candidate’s **own problem-solving skills, coding abilities, and way of thinking**.
+
+You may use generative AI tools in a supporting role (for example, to help understand documentation or explore ideas), but we expect the **solution and code to be largely your own work**.
+
+If you wish, you may also briefly describe **where and how you used any such tools** as part of the assignment.
 
 # Stuff to do 
 
